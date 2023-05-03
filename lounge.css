@@ -1,0 +1,37 @@
+body{
+    background: yellow;
+}
+h1, h2, p{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+
+h1 {
+    border-bottom: 5px solid black;
+}
+p{
+    font-family: sans-serif;
+    color: magenta;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+em{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: chartreuse;
+}
+p.new-class, h1.new-class {
+    font-size: 50px;
+    color:blue;
+    
+}
+h2.green-class{
+    font-size: 25px;
+    color: green;
+}
+em.qqq-class{
+    color: black;
+}
+body{
+    color: greenyellow;
+}
